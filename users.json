@@ -1,0 +1,18 @@
+{
+      "users": [
+            {
+                  "login": "4085c6bd955d1445b1bd70ece5baf454",
+                  "password": "202cb962ac59075b964b07152d234b70",
+                  "full_name": "Dima",
+                  "address": "Yuzhny street",
+                  "phone_number": "+123123",
+                  "test_statistic": {}
+            }
+      ],
+      "admin": [
+            {
+                  "login": "21232f297a57a5a743894a0e4a801fc3",
+                  "password": "21232f297a57a5a743894a0e4a801fc3"
+            }
+      ]
+}
